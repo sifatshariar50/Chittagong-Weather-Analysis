@@ -83,7 +83,9 @@ Data Interpretation
 
 📓 Project Notebook
 
-View Chittagong Weather Analysis Notebook
+
+"View Chittagong Weather Analysis & Rain Prediction Notebook" (
+                https://github.com/sifatshariar50/Chittagong-Weather-Analysis/blob/main/chattogram-weather-analysis-and-rain-prediction.ipynb
 
 👨‍💻 Author
 
